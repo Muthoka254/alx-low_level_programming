@@ -1,10 +1,10 @@
 /**
-*main - entry pint
+*main -entry puint
 *
-*Return: 0 after printing the function
+Retturn:0 after printing function
 */
 int main(void)
 {
 puts("\"Programming is like building a multilingual puzzle");
-retur (0);
+return (0);
 }
